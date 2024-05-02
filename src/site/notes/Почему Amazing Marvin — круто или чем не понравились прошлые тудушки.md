@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/pochemu-amazing-marvin-kruto-ili-chem-ne-ponravilis-proshlye-tudushki/"}
 ---
 
+# Почему Amazing Marvin — круто или чем не понравились прошлые тудушки
 ## Предыдущий опыт
 До этой весны я пробовал много разных приложений и фреймворков для ведения тасочек. Среди приложений были Obsidian, Apple Reminders, Todoist, Microsoft Todo. Пользовался также и записными книжками. Активно пробовал GTD в его самом строгом проявлении. В общем, какой-то опыт у меня есть.
 
