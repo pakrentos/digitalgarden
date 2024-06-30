@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/crypto-projects/solayer/"}
+{"created":"30-06-2024","website":"https://solayer.org/","twitter":"https://x.com/solayer_labs","discord":"https://discord.com/invite/solayerlabs","tg":null,"blog":"https://solayer.org/blogs","github":"https://github.com/solayer-labs","doc":"https://docs.solayer.org/","dune":null,"litepaper":null,"dg-publish":true,"permalink":"/crypto-projects/solayer/","dgPassFrontmatter":true}
 ---
 
 #chain/Solana 
